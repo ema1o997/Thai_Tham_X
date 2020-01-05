@@ -1,2 +1,3 @@
 # Thai_Tham_X
 IPA _internat_SP
+This is a test-version to create an Thai_Speech_Simulator to my loved Pawny...
